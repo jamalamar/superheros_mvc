@@ -1,0 +1,23 @@
+{
+  "name": "superheros_mvc",
+  "version": "1.0.0",
+  "description": "index/show",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamalamar/superheros_mvc.git"
+  },
+  "author": "Jamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamalamar/superheros_mvc/issues"
+  },
+  "homepage": "https://github.com/jamalamar/superheros_mvc#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
